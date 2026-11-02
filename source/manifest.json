@@ -1,0 +1,12 @@
+{
+  "engine": "EEcircuit-engine 1.8.0",
+  "engine_source_commit": "f4dab6458d3865a1db9766008480690d23410c3a",
+  "ngspice_banner": "45.2; KLU; 2026-09-05",
+  "z80": "z80-emulator 2.3.0 / z80-base 2.0.1",
+  "sha256": {
+    "vendor/eecircuit-engine.mjs": "a4a4776888e6fbbd1c1be755adba8bc48c0921a26649e86c7539c40433cfe66e",
+    "vendor/z80.mjs": "137a50d1501b565477fd0fd3c259e1a9b5b01b55b4f51a53060604bacfbec6ad",
+    "source/EEcircuit-engine-1.8.0-source.tar.gz": "db99acc2784e87b40bc66d8669f6f2619db7c9f36c20ed1b072e0662b3c71c67",
+    "source/ngspice-45.2-source.tar.gz": "3aa30022e975bc04e2d9566e62e76d15e108d7b887f520755383ba37464c2324"
+  }
+}

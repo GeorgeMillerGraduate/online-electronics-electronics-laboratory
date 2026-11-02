@@ -1,0 +1,7 @@
+RC low-pass filter - original Jenga Code example
+* A 1 kOhm resistor and 1 uF capacitor charge from a 0-to-5 V step.
+V1 in 0 PULSE(0 5 0 1u 1u 100m 200m)
+R1 in out 1k
+C1 out 0 1u
+.tran 10u 10m
+.end
